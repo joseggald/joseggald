@@ -8,7 +8,16 @@ Soy un apasionado estudiante de Ingeniería en Ciencias y Sistemas en constante 
 
 ## Experiencia Profesional
 Actualmente, formo parte del equipo de **Ingenieros de Soporte** en **Ubiquo Labs**, donde aplico mis habilidades técnicas para resolver problemas críticos y garantizar la continuidad operativa de nuestros clientes. Esta experiencia me ha permitido desarrollar una mentalidad orientada a la solución y una gran capacidad para trabajar bajo presión.
+## Habilidades Técnicas
+Aquí está mi nivel de manejo en algunas tecnologías clave:
 
+| Tecnología     | Nivel   |
+| -------------- | ------- |
+| React          | Avanzado |
+| Node.js        | Intermedio |
+| MySQL          | Intermedio |
+| MongoDB        | Principiante |
+| JavaScript     | Avanzado |
 ## Pasión por la Tecnología
 Mi pasión por la programación y la tecnología me ha llevado a explorar diversos lenguajes de programación y enfoques de desarrollo. Estoy emocionado por la oportunidad de colaborar con equipos de desarrollo y contribuir al éxito de proyectos innovadores.
 
