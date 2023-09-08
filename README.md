@@ -32,7 +32,7 @@ Siempre estoy dispuesto a conectar con profesionales de ideas afines y aprender 
 ¡No dudes en contactarme para colaboraciones, preguntas o simplemente una charla técnica interesante!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/josegaldamez" target="_blank">
+  <a href="https://www.linkedin.com/in/josé-eduardo-galdámez-gonzález-187060209/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&labelColor=blue" alt="LinkedIn">
   </a>
   <a href="eduardo_gonzalez2002@outlook.es" target="_blank">
