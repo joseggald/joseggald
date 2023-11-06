@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola, soy José Galdámez! 👋</h1>
-  <p>🚀 Ingeniero de Soporte | 🎓 Estudiante de Ingeniería en Ciencias y Sistemas | 20 años</p>
+  <p>🚀 Ingeniero de Soporte | 🎓 Estudiante de Ingeniería en Ciencias y Sistemas | 21 años</p>
 </div>
 
 ## Sobre Mí 🌟
@@ -17,8 +17,10 @@ Aquí está mi nivel de manejo en algunas tecnologías clave:
 | React          | Avanzado   |
 | Node.js        | Intermedio |
 | MySQL          | Intermedio |
-| MongoDB        | Principiante |
+| MongoDB        | Intermedio |
 | JavaScript     | Avanzado   |
+| Astro    | Intermedio  |
+| Fast API    | Intermedio  |
 
 ## Pasión por la Tecnología 🔥
 Mi pasión por la programación y la tecnología me ha llevado a explorar diversos lenguajes de programación y enfoques de desarrollo. Estoy emocionado por la oportunidad de colaborar con equipos de desarrollo y contribuir al éxito de proyectos innovadores.
