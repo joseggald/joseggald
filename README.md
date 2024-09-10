@@ -1,6 +1,6 @@
 <div align="center">
   <h1>¡Hola, soy José Galdámez! 👋</h1>
-  <p>🚀 Ingeniero de Soporte | 🎓 Estudiante de Ingeniería en Ciencias y Sistemas | 21 años</p>
+  <p>🚀 Mid Full Stack Developer | 🎓 Estudiante de Ingeniería en Ciencias y Sistemas | 21 años</p>
 </div>
 
 ## Sobre Mí 🌟
